@@ -43,7 +43,7 @@ header a::before{
     transform: scale(1.06);
 }
 
-.bg{
+#box{
     display: flex;
     justify-content: center;
     flex-direction: column;
