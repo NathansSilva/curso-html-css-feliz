@@ -43,28 +43,6 @@ header a::before{
     transform: scale(1.06);
 }
 
-#box{
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    text-align: center;
-    width: 627px;
-    height: 184px;
-    padding: 20px;
-    background-color: #3A4042;
-    box-shadow: 10px 10px 0px #000000;
-    margin-top: 100px;
-    margin-bottom: 40px;
-}
-
-
-
-h2{
-    font-family: 'Press Start 2P', sans-serif;
-    font-weight: 400;
-    font-size: 30px;
-}
-
 .btn{
     display: inline-block;
     background-color: #F25A70;
