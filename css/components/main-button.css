@@ -1,4 +1,4 @@
-.button{
+.main-button{
     display: inline-block;
     background-color: #F25A70;
     color: #FFF;
@@ -12,7 +12,7 @@
     transition: .3s ease;
 }
 
-.button:hover{
+.main-button:hover{
     background-color: #e6a8b1;
     transform: scale(1.06);
 }
